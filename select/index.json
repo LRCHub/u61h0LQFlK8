@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "PUSHIM - Brand New Day (Official Music Video)",
+  "base_artist": "PUSHIM",
+  "createdAt": "2026-02-10T03:00:07.978139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Untitled (feat. PUSHIM & DABO)",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/01_Untitled_(feat._PUSHIM_&_DABO)_AI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ASOBITAI (feat. PUSHIM)",
+      "artist": "Rudebwoy Face",
+      "has_synced": false,
+      "path": "select/02_ASOBITAI_(feat._PUSHIM)_Rudebwoy_Face.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JUS'TONIGHT feat. PUSHIM",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/03_JUS'TONIGHT_feat._PUSHIM_Ms.OOJA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Day",
+      "artist": "PUSHIM",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Day_PUSHIM.txt"
+    }
+  ]
+}
